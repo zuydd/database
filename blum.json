@@ -1,5 +1,5 @@
 {
-  "skipHandleTask": true,
+  "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "9m5hchoOPE",
   "tasks": [
@@ -33,5 +33,5 @@
     }
   ],
   "ver": "v0.1.4",
-  "noti": ""
+  "noti": "Đã mở lại tính năng làm nhiệm vụ, server của Blum có thể vẫn chưa ổn định nên đừng bất ngờ nếu thấy lỗi 🤣"
 }
