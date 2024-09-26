@@ -1,5 +1,5 @@
 {
-  "skipHandleTask": false,
+  "skipHandleTask": true,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "9m5hchoOPE",
   "tasks": [
@@ -30,8 +30,12 @@
     {
       "id": "350501e9-4fe4-4612-b899-b2daa11071fb",
       "answer": "CRYPTOSMART"
+    },
+    {
+      "id": "b611352b-0d8c-44ec-8e0f-cd71b5922ca5",
+      "answer": "BLUMERSSS"
     }
   ],
   "ver": "v0.1.4",
-  "noti": "Đã mở lại tính năng làm nhiệm vụ, server của Blum có thể vẫn chưa ổn định nên đừng bất ngờ nếu thấy lỗi 🤣"
+  "noti": "Tạm khoá làm nhiệm vụ do server Blum lỏ quá 🤣"
 }
