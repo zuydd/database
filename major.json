@@ -32,5 +32,5 @@
     }
   ],
   "ver": "v0.0.6",
-  "noti": "Con quỷ Major này đang bị chập chờn cái vụ đăng nhập lúc được lúc không vào khoảng độ từ 8-12 giờ sáng mỗi ngày nên tầm đó chạy mà bị lỗi 401, 403 thì tắt tool chờ qua trưa chạy nhé"
+  "noti": "Con quỷ Major này đang bị chập chờn cái vụ đăng nhập lúc được lúc không nên nếu chạy mà bị lỗi 401, 403 thì lấy lại user data/query_id sau đó xoá token (để lại cặp dấu {}) rồi chạy lại là hết bị lỗi nhé"
 }
