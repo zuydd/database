@@ -1,6 +1,6 @@
 {
   "ref": "0000cwVd",
-  "skipErrorTasks": [],
+  "skipErrorTasks": [53, 101, 206, 243, 264],
   "ver": "v1.0.0",
   "noti": ""
 }
