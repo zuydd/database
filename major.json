@@ -32,5 +32,5 @@
     }
   ],
   "ver": "v0.0.6",
-  "noti": "Con quỷ Major này đang bị chập chờn cái vụ đăng nhập lúc được lúc không nên nếu chạy mà bị lỗi 401, 403 thì thử chạy lại vài lần là hết lỗi nhé"
+  "noti": "Con quỷ Major này đang bị chập chờn cái vụ đăng nhập lúc được lúc không vào buổi sáng nên nếu chạy mà bị lỗi 401, 403 thì thử chạy lại vài lần là hết lỗi nhé, không hết thì chờ qua trưa chạy nhé"
 }
