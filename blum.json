@@ -64,6 +64,6 @@
       "answer": "SOBLUM"
     }
   ],
-  "ver": "v0.1.4",
-  "noti": "Game lâu lâu có một số acc bị lỗi nó nhả các task đã làm ra nên khi làm lại sẽ bị lỗi, đừng bất ngờ vì điều này, cứ kệ nó"
+  "ver": "v0.1.5",
+  "noti": "Con blum nó mới đổi API chơi game qua v2, thêm mã hoá payload khi claim chơi game, đợi mình đi du lịch về (dự định 14/10) mình fix cho ae nhé, tải bản mới chạy tạm không có chơi game"
 }
