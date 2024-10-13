@@ -62,8 +62,12 @@
     {
       "id": "d2a972a1-12ab-4c7b-a411-da056609f2bd",
       "answer": "SOBLUM"
+    },
+    {
+      "id": "56d210c1-446b-473b-b7c4-cba856b4476c",
+      "answer": "BLUMEXPLORER"
     }
   ],
   "ver": "v0.1.5",
-  "noti": "Con blum nó mới đổi API chơi game qua v2, thêm mã hoá payload khi claim chơi game, đợi mình đi du lịch về (dự định 14/10) mình fix cho ae nhé, tải bản mới chạy tạm không có chơi game"
+  "noti": "Con blum nó mới đổi API chơi game qua v2, thêm mã hoá payload khi claim chơi game, đợi mình đi du lịch về mình fix cho ae nhé, tải bản mới chạy tạm không có chơi game"
 }
