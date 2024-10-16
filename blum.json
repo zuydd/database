@@ -2,6 +2,28 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
+  "payloadServer": [
+    {
+      "id": "vqzuejeiiemf1",
+      "status": 1
+    },
+    {
+      "id": "weajonqbsyvr2",
+      "status": 1
+    },
+    {
+      "id": "oraiuhooppds3",
+      "status": 1
+    },
+    {
+      "id": "mwmyjxhwhvkd4",
+      "status": 1
+    },
+    {
+      "id": "agujrczbhepn5",
+      "status": 1
+    }
+  ],
   "tasks": [
     {
       "id": "38f6dd88-57bd-4b42-8712-286a06dac0a0",
