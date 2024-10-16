@@ -94,6 +94,10 @@
       "answer": "CRYPTOFAN"
     }
   ],
+  "tribeSkip": [
+    "b372af40-6e97-4782-b70d-4fc7ea435022",
+    "642e3141-5536-4d2f-9a5f-a62a35ede62c",
+  ],
   "ver": "v0.1.5",
   "noti": "Hiện tại đã fix xong chơi game rồi nhưng do không có acc nào nhặt được chó (DOGS) nên ông nào có acc nhặt được gửi tui mượn iframe tui ngâm cứu thêm nhặt chó vào tool nhé"
 }
