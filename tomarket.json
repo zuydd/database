@@ -1,7 +1,7 @@
 {
   "ref": "0000cwVd",
   "skipErrorTasks": [53, 101, 206, 243, 264, 305, 267, 301],
-  "ver": "v1.0.0",
+  "ver": "v1.0.1",
   "noti": "",
   "puzzle": {
     "task_id": 2000,
