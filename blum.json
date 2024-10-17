@@ -22,6 +22,26 @@
     {
       "id": "agujrczbhepn5",
       "status": 1
+    },
+    {
+      "id": "iqwuumqkuczb6",
+      "status": 1
+    },
+    {
+      "id": "zseniuazehyf7",
+      "status": 1
+    },
+    {
+      "id": "bmyrrpbvnlaa8",
+      "status": 1
+    },
+    {
+      "id": "hpwsqafwqdqr9",
+      "status": 1
+    },
+    {
+      "id": "enmobnpmpxkw10",
+      "status": 1
     }
   ],
   "tasks": [
@@ -102,6 +122,6 @@
     "b372af40-6e97-4782-b70d-4fc7ea435022",
     "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
-  "ver": "v0.1.6",
+  "ver": "v0.1.7",
   "noti": "Chơi game đã chạy mượt rồi nhé, nhớ xem hướng dẫn sử dụng để biết chỉnh khung giờ chơi game"
 }
