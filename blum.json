@@ -2,6 +2,14 @@
   "skipHandleTask": false,
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
+  "server": [
+    "pro": [
+      {
+        "url": "http://localhost:3000/api/",
+        "status": 1
+      }
+    ]
+  ],
   "payloadServer": [
     {
       "id": "vqzuejeiiemf1",
