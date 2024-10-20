@@ -11,43 +11,39 @@
     ],
     "free": [
       {
-        "id": "vqzuejeiiemf1",
+        "url": "https://vqzuejeiiemf1.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "weajonqbsyvr2",
+        "url": "https://weajonqbsyvr2.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "oraiuhooppds3",
+        "url": "https://oraiuhooppds3.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "mwmyjxhwhvkd4",
+        "url": "https://mwmyjxhwhvkd4.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "agujrczbhepn5",
+        "url": "https://agujrczbhepn5.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "iqwuumqkuczb6",
+        "url": "https://iqwuumqkuczb6.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "zseniuazehyf7",
-        "status": 0
-      },
-      {
-        "id": "bmyrrpbvnlaa8",
+        "url": "https://bmyrrpbvnlaa8.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "hpwsqafwqdqr9",
+        "id": "https://hpwsqafwqdqr9.vercel.app/api/",
         "status": 1
       },
       {
-        "id": "enmobnpmpxkw10",
+        "id": "https://enmobnpmpxkw10.vercel.app/api/",
         "status": 1
       }
     ]
