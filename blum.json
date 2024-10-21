@@ -5,45 +5,13 @@
   "server": {
     "pro": [
       {
-        "url": "http://localhost:3000/api/",
+        "url": "http://blum-pro.vercel.app/api/",
         "status": 1
       }
     ],
     "free": [
       {
-        "url": "https://vqzuejeiiemf1.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://weajonqbsyvr2.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://oraiuhooppds3.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://mwmyjxhwhvkd4.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://agujrczbhepn5.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://iqwuumqkuczb6.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://bmyrrpbvnlaa8.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "id": "https://hpwsqafwqdqr9.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "id": "https://enmobnpmpxkw10.vercel.app/api/",
+        "url": "https://blum-free-1.vercel.app/api/",
         "status": 1
       }
     ]
