@@ -5,7 +5,7 @@
   "server": {
     "pro": [
       {
-        "url": "http://blum-pro.vercel.app/api/",
+        "url": "https://blum-pro.vercel.app/api/",
         "status": 1
       }
     ],
