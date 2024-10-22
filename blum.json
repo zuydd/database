@@ -120,6 +120,6 @@
     "b372af40-6e97-4782-b70d-4fc7ea435022",
     "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
-  "ver": "v0.1.7",
-  "noti": "Mới cập nhật thêm 4 server free cho ae chơi game trong lúc chờ hoàn thiện hệ thống API KEY (dự kiến xong trong 1-2 hôm tới)."
+  "ver": "v0.1.8",
+  "noti": "Đã cập nhật phiên bản mới hỗ trợ API KEY, có thể mua hoặc nhận miễn phí API KEY tại 👉 https://zuy-web.vercel.app/blum với đợt khuyển mãi mua sớm giảm giá 30%\nHiện tại vẫn cho phép sử dụng free server đến hết 12:00 (UTC+7) ngày 24 tháng 10\nNhấn enter để bỏ qua nếu bạn không có API KEY"
 }
