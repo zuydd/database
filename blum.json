@@ -18,43 +18,19 @@
   },
   "payloadServer": [
     {
-      "id": "vqzuejeiiemf1",
-      "status": 0
-    },
-    {
-      "id": "weajonqbsyvr2",
-      "status": 0
-    },
-    {
-      "id": "oraiuhooppds3",
-      "status": 0
-    },
-    {
-      "id": "mwmyjxhwhvkd4",
-      "status": 0
-    },
-    {
-      "id": "agujrczbhepn5",
-      "status": 0
-    },
-    {
-      "id": "iqwuumqkuczb6",
+      "id": "iwsluybtbdix12",
       "status": 1
     },
     {
-      "id": "zseniuazehyf7",
-      "status": 0
+      "id": "xnwqkifdwzud13",
+      "status": 1
     },
     {
-      "id": "bmyrrpbvnlaa8",
-      "status": 0
+      "id": "ytlbpmzsiqjv14",
+      "status": 1
     },
     {
-      "id": "hpwsqafwqdqr9",
-      "status": 0
-    },
-    {
-      "id": "enmobnpmpxkw10",
+      "id": "phusuuarieff15",
       "status": 1
     }
   ],
@@ -137,5 +113,5 @@
     "642e3141-5536-4d2f-9a5f-a62a35ede62c"
   ],
   "ver": "v0.1.7",
-  "noti": "Với tình hình nhiều bên spam request lên server để lấy payload chơi game dẫn đến các server sẽ sớm quá tải vào đêm nay (18/10) vậy nên khuyên mọi người không nên chạy chơi game bắt đầu từ khuya đêm nay để tránh lỗi mất vé\nSắp tới bắt buộc phải có API KEY để có thể request lên server lấy payload chơi game để tránh các trại và các bên khác spam. Mọi người chơi ít thì yên tâm là sẽ vẫn cấp API KEY free cho mọi người, còn chơi lớn thì nạp xèng vào mà mua nhé, bú free thế đủ rồi."
+  "noti": "Mới cập nhật thêm 4 server free cho ae chơi game trong lúc chờ hoàn thiện hệ thống API KEY (dự kiến xong trong 1-2 hôm tới)."
 }
