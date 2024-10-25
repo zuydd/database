@@ -105,7 +105,8 @@
   ],
   "tribeSkip": [
     "b372af40-6e97-4782-b70d-4fc7ea435022",
-    "642e3141-5536-4d2f-9a5f-a62a35ede62c"
+    "642e3141-5536-4d2f-9a5f-a62a35ede62c",
+    "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
   "ver": "v0.2.1",
   "noti": "Đã cập nhật phiên bản mới hỗ trợ API KEY, có thể mua hoặc nhận miễn phí API KEY tại 👉 https://zuy-web.vercel.app/blum với đợt khuyển mãi mua sớm giảm giá 30%\nNhấn enter để bỏ qua nếu bạn không có API KEY\nĐối với các bạn nhận KEY FREE vui lòng nhắn tin nhắn qua Telegram @zuy_dd trước cho mình nhé, acc mình không thể chủ động gửi tin nhắn do sẽ bị tính là spam"
