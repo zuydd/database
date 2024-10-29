@@ -5,7 +5,7 @@
   "server": {
     "pro": [
       {
-        "url": "http://14.225.212.202/api/",
+        "url": "https://blum-backup1.vercel.app/api/",
         "status": 1
       }
     ],
