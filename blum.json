@@ -7,6 +7,14 @@
       {
         "url": "https://blum-backup1.vercel.app/api/",
         "status": 1
+      },
+      {
+        "url": "https://blum-server2.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server3.vercel.app/api/",
+        "status": 1
       }
     ],
     "free": [
