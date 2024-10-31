@@ -9,11 +9,19 @@
         "status": 1
       },
       {
-        "url": "https://blum-backup1.vercel.app/api/",
-        "status": 0
+        "url": "https://blum-server3.vercel.app/api/",
+        "status": 1
       },
       {
-        "url": "https://blum-server3.vercel.app/api/",
+        "url": "https://blum-server4.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server5.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server6.vercel.app/api/",
         "status": 1
       }
     ],
