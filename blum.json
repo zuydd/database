@@ -9,11 +9,19 @@
         "status": 1
       },
       {
-        "url": "https://blum-backup1.vercel.app/api/",
+        "url": "https://blum-server3.vercel.app/api/",
         "status": 1
       },
       {
-        "url": "https://blum-server3.vercel.app/api/",
+        "url": "https://blum-server4.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server5.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server6.vercel.app/api/",
         "status": 1
       }
     ],
@@ -117,6 +125,10 @@
     {
       "id": "6fb7499f-8b38-4132-8255-c3184cc2712c",
       "answer": "PUMPIT"
+    },
+    {
+      "id": "98d390d1-95da-475f-8df9-53a335842c3a",
+      "answer": "Blumhelps"
     }
   ],
   "tribeSkip": [
@@ -124,6 +136,6 @@
     "642e3141-5536-4d2f-9a5f-a62a35ede62c",
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.2",
+  "ver": "v0.2.3",
   "noti": "- Multi-language feature has been updated, see user guide at https://github.com/zuydd/blum for how to install\n- Nếu bạn đang tích hợp API vào bot của riêng bạn, vui lòng thay đổi server PRO về máy chủ mới http://14.225.212.202 trước 8:00 (UTC+7) 29/10/2024 để tránh gián đoạn sử dụng dịch vụ\n- Đã cập nhật phiên bản mới hỗ trợ API KEY, có thể mua hoặc nhận miễn phí API KEY tại 👉 https://zuy-web.vercel.app/blum với đợt khuyển mãi mua sớm giảm giá 30%\n- Nhấn enter để bỏ qua nếu bạn không có API KEY\n- Đối với các bạn nhận KEY FREE vui lòng nhắn tin nhắn qua Telegram @blum_zuydd trước cho mình nhé, acc mình không thể chủ động gửi tin nhắn do sẽ bị tính là spam"
 }
