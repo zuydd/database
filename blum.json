@@ -5,7 +5,11 @@
   "server": {
     "pro": [
       {
-        "url": "https://blum-server6.vercel.app/api/",
+        "url": "https://blum-server0.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server5.vercel.app/api/",
         "status": 1
       },
       {
@@ -17,7 +21,23 @@
         "status": 1
       },
       {
-        "url": "https://blum-server5.vercel.app/api/",
+        "url": "https://blum-server6.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server7.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server8.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server9.vercel.app/api/",
+        "status": 1
+      },
+      {
+        "url": "https://blum-server10.vercel.app/api/",
         "status": 1
       }
     ],
