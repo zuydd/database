@@ -1,6 +1,7 @@
 {
   "skipHandleTask": false,
   "skipHandleGame": true,
+  "randomPoints": [150, 190],
   "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
   "ref": "KOMPtO0PWQ",
   "server": {
