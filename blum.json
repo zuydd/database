@@ -7,15 +7,11 @@
   "server": {
     "pro": [
       {
-        "url": "https://blum-server8.vercel.app/api/",
+        "url": "https://blum-server0.vercel.app/api/",
         "status": 1
       },
       {
         "url": "https://blum-server5.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server0.vercel.app/api/",
         "status": 1
       },
       {
