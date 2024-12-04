@@ -7,33 +7,13 @@
   "server": {
     "pro": [
       {
-        "url": "https://blum-server14.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server15.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server16.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server17.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server18.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server19.vercel.app/api/",
+        "url": "https://blum-server21.vercel.app/api/",
         "status": 1
       }
     ],
     "free": [
       {
-        "url": "https://blum-server19.vercel.app/api/",
+        "url": "https://blum-server21.vercel.app/api/",
         "status": 1
       }
     ]
