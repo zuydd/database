@@ -1,6 +1,6 @@
 {
   "ref": "b08e6215bb7151c77b169c234f8f33e9",
   "skipErrorTasks": ["create_dmail_account"],
-  "ver": "v0.0.9",
+  "ver": "v0.1.0",
   "noti": ""
 }
