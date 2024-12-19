@@ -269,6 +269,6 @@
     "642e3141-5536-4d2f-9a5f-a62a35ede62c",
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.4",
-  "noti": "- Blum đã gắn Cloudflare để chống lại các bot request thông qua API nên tạm thời không thể sử dụng tool. Mình sẽ cố gắng tìm cách nhưng tỉ lệ có thể bypass được là rất thấp.\n- Blum has attached Cloudflare to protect against bot requests via API, so we cannot use the tool temporarily. I will try to find a way but the chance of being able to bypass it is very low."
+  "ver": "v0.2.5",
+  "noti": "- Đã cập nhật xong bypass Cloudflare, hiện tại tool đã quay trờ lại hoạt động bình thường. Xin lỗi mọi người vì phải chờ lâu.\n- Bypass Cloudflare has been updated, the tool has now returned to normal operation. Sorry everyone for the long wait."
 }
