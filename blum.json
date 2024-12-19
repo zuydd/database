@@ -2,7 +2,11 @@
   "skipHandleTask": false,
   "skipHandleGame": false,
   "randomPoints": [170, 210],
-  "skipTasks": ["39391eb2-f031-4954-bd8a-e7aecbb1f192"],
+  "skipTasks": [
+    "39391eb2-f031-4954-bd8a-e7aecbb1f192",
+    "01928ac2-b7b5-4cb4-815c-ce6f5953a2de",
+    "e4886597-c2e2-4b11-8a2b-96e37e9cec51"
+  ],
   "ref": "KOMPtO0PWQ",
   "server": {
     "pro": [
