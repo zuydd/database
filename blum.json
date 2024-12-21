@@ -263,12 +263,24 @@
     {
       "id": "27ac150a-e5bd-49eb-82e4-13bde70b3f3c",
       "answer": "Elsalvador"
+    },
+    {
+      "id": "3b9df10b-c5cc-47e5-b2b1-b3658a50c8cd",
+      "answer": "Trump"
+    },
+    {
+      "id": "1582e55a-5ced-452b-bd6f-8dfa7ee892e1",
+      "answer": "Blumshine"
+    },
+    {
+      "id": "379d6df4-0b4c-4679-92f0-5d4d1dd8c333",
+      "answer": "Gonnablum"
     }
   ],
   "tribeSkip": [
     "642e3141-5536-4d2f-9a5f-a62a35ede62c",
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.5",
+  "ver": "v0.2.6",
   "noti": "- Đã cập nhật xong bypass Cloudflare, hiện tại tool đã quay trờ lại hoạt động bình thường. Xin lỗi mọi người vì phải chờ lâu.\n- Bypass Cloudflare has been updated, the tool has now returned to normal operation. Sorry everyone for the long wait."
 }
