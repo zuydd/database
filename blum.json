@@ -13,31 +13,31 @@
     "pro": [
       {
         "url": "https://blum-server21.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server22.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server23.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server24.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server26.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server27.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server28.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server29.vercel.app/api/",
@@ -50,7 +50,7 @@
     ],
     "free": [
       {
-        "url": "https://blum-server30.vercel.app/api/",
+        "url": "https://blum-server29.vercel.app/api/",
         "status": 1
       }
     ]
