@@ -1,6 +1,6 @@
 {
   "skipHandleTask": false,
-  "skipHandleGame": true,
+  "skipHandleGame": false,
   "randomPoints": [165, 190],
   "multiplierPoint": 5,
   "skipTasks": [
@@ -282,6 +282,6 @@
     "642e3141-5536-4d2f-9a5f-a62a35ede62c",
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
-  "ver": "v0.2.6",
+  "ver": "v0.2.7",
   "noti": "- Đã cập nhật xong bypass Cloudflare, hiện tại tool đã quay trờ lại hoạt động bình thường. Xin lỗi mọi người vì phải chờ lâu.\n- Bypass Cloudflare has been updated, the tool has now returned to normal operation. Sorry everyone for the long wait."
 }
