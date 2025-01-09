@@ -2,7 +2,7 @@
   "skipHandleTask": false,
   "skipHandleGame": false,
   "randomPoints": [170, 190],
-  "multiplierPoint": 3,
+  "multiplierPoint": 1,
   "skipTasks": [
     "39391eb2-f031-4954-bd8a-e7aecbb1f192",
     "01928ac2-b7b5-4cb4-815c-ce6f5953a2de",
@@ -16,7 +16,7 @@
     "pro": [
       {
         "url": "https://blum-server21.vercel.app/api/",
-        "status": 0
+        "status": 1
       },
       {
         "url": "https://blum-server22.vercel.app/api/",
@@ -32,19 +32,19 @@
       },
       {
         "url": "https://blum-server26.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server27.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server28.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server29.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server30.vercel.app/api/",
