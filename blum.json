@@ -13,44 +13,7 @@
   ],
   "ref": "KOMPtO0PWQ",
   "server": {
-    "pro": [
-      {
-        "url": "https://blum-server21.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server22.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server23.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server25.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server26.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server27.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server28.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server29.vercel.app/api/",
-        "status": 0
-      },
-      {
-        "url": "https://blum-server30.vercel.app/api/",
-        "status": 1
-      }
-    ],
+    "pro": [],
     "free": [
       {
         "url": "https://blum-server30.vercel.app/api/",
