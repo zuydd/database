@@ -20,14 +20,14 @@
       },
       {
         "url": "https://blum-server22.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
         "url": "https://blum-server23.vercel.app/api/",
-        "status": 1
+        "status": 0
       },
       {
-        "url": "https://blum-server24.vercel.app/api/",
+        "url": "https://blum-server25.vercel.app/api/",
         "status": 1
       },
       {
