@@ -14,12 +14,7 @@
   "ref": "KOMPtO0PWQ",
   "server": {
     "pro": [],
-    "free": [
-      {
-        "url": "https://blum-server30.vercel.app/api/",
-        "status": 1
-      }
-    ]
+    "free": []
   },
   "payloadServer": [],
   "tasks": [
@@ -241,7 +236,7 @@
     },
     {
       "id": "379d6df4-0b4c-4679-92f0-5d4d1dd8c333",
-      "answer": "Gonnablum"
+      "answer": "GONNABLUM"
     },
     {
       "id": "dc27c24f-26e2-4218-acc7-ec190f1ae763",
@@ -249,11 +244,127 @@
     },
     {
       "id": "5c3e7c7b-82f7-4547-917d-d52ccc08dced",
-      "answer": "lifeisblum"
+      "answer": "LIFEISBLUM"
+    },
+    {
+      "id": "62cb1942-ee48-47cf-92b6-f45b9c911d89",
+      "answer": "TRADEWITHBLUM"
+    },
+    {
+      "id": "9d9a6c2a-b0a4-4120-9563-ebfaa118ecb8",
+      "answer": "LIMITORDERSLIVE"
+    },
+    {
+      "id": "055b0d94-012f-4312-821a-d74e8803bbb2",
+      "answer": "TGETHISSPRING"
+    },
+    {
+      "id": "d175d6b3-d68d-4eb8-8f71-5653ee5058cb",
+      "answer": "BLUMGOESAI"
+    },
+    {
+      "id": "915f3bc2-bf0a-4440-8324-6f779d48a0c1",
+      "answer": "GIVEAWAY"
+    },
+    {
+      "id": "c6e26b15-8e78-4288-9f29-d75de67d29be",
+      "answer": "GOTAP"
+    },
+    {
+      "id": "dd7d2f25-1cf7-499f-908f-8db9b68ba0a2",
+      "answer": "MEGABLUM"
+    },
+    {
+      "id": "1cdaf0dc-cac9-45d7-98ca-62976ce52ec1",
+      "answer": "BLUUUM"
+    },
+    {
+      "id": "179d468d-06b7-4c4d-a1a6-01440462de5e",
+      "answer": "BLUMGOALS"
     },
     {
       "id": "8513aef2-0ff6-4d46-9363-42a2eacd8341",
-      "answer": "tapblum"
+      "answer": "TAPBLUM"
+    },
+    {
+      "id": "f44f5c5e-5d92-4b25-b241-5c2893c7077c",
+      "answer": "GROWWITHBLUM"
+    },
+    {
+      "id": "911f9680-72aa-4986-95d1-323740083e9d",
+      "answer": "AI COIN"
+    },
+    {
+      "id": "2f1b3c98-6c5a-4fc9-b5fa-16afc7dc8703",
+      "answer": "BLUMCHATS"
+    },
+    {
+      "id": "99fcc502-7700-40d6-a052-c896fe957da9",
+      "answer": "PROSPERA"
+    },
+    {
+      "id": "02304757-0df3-40c4-80cb-8c6a4013e10b",
+      "answer": "BITGET"
+    },
+    {
+      "id": "5336a0a8-71cf-4571-b97c-ff84320638d3",
+      "answer": "TOP"
+    },
+    {
+      "id": "5ec71430-bc31-4ee4-b5d9-db44559867bd",
+      "answer": "QUANTUMBTC"
+    },
+    {
+      "id": "8f24c1ca-db36-4483-9abe-268a4ce2e357",
+      "answer": "BUILD"
+    },
+    {
+      "id": "7b4aa5e1-b6e6-4301-ace8-ddfd07cdfe78",
+      "answer": "CRYPTO2025"
+    },
+    {
+      "id": "1582e55a-5ced-452b-bd6f-8dfa7ee892e1",
+      "answer": "Blumshine"
+    },
+    {
+      "id": "799de12d-0195-4fa0-9dca-01efc5ffc9fb",
+      "answer": "Blumance"
+    },
+    {
+      "id": "01948b93-3680-4ac1-a498-204a5675f168",
+      "answer": "BLUMISLIFE"
+    },
+    {
+      "id": "52b3ac6b-cc86-4155-9ef9-30851f13703d",
+      "answer": "LOVEBLUM"
+    },
+    {
+      "id": "f5041a75-dd3b-4baf-b2e2-3ff5e894ec6d",
+      "answer": "MEMEPAD"
+    },
+    {
+      "id": "09da8db4-3d7e-4385-a1cc-f9429097958b",
+      "answer": "LAMBOBLUM"
+    },
+    {
+      "id": "4d51949a-85ac-447a-baaa-6b4bda0760b3",
+      "answer": "BLUMSPARK"
+    },
+    {
+      "id": "698975fc-52e5-4fa9-bbc2-f146a46c941b",
+      "answer": "BLUMIES"
+    },
+    {
+      "id": "23416258-f003-4d91-a21e-c0f7bccbbe8f",
+      "answer": "Blummunity"
+    },
+    {
+      "id": "5dcd66db-3872-4cf4-a3d0-85e6a909a3d4",
+      "answer": "BLUMTIPS"
+    },
+    {
+      "id": "f92e8f60-c487-4359-8a8a-ded2bdc6df98",
+      "answer": "HUNDRED"
     }
   ],
   "tribeSkip": [
