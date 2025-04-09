@@ -2,7 +2,7 @@
   "skipHandleTask": false,
   "skipHandleGame": false,
   "randomPoints": [170, 190],
-  "multiplierPoint": 1,
+  "multiplierPoint": 2,
   "skipTasks": [
     "39391eb2-f031-4954-bd8a-e7aecbb1f192",
     "01928ac2-b7b5-4cb4-815c-ce6f5953a2de",
@@ -372,5 +372,5 @@
     "e7d71ab5-5e2f-4b2d-b00a-78d014a93ff6"
   ],
   "ver": "v0.2.9",
-  "noti": "- Đã loại bỏ thu phí thông qua API KEY, giờ đây mọi tính năng đều miễn phí.\n- Removed API KEY fee, now all features are free."
+  "noti": "- Đã loại bỏ thu phí thông qua API KEY, giờ đây mọi tính năng đều miễn phí.\n- Đã update x2 điểm số (event TGE).\n- Removed API KEY fee, now all features are free.\n- Updated x2 score (TGE event)."
 }
